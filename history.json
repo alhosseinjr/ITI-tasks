@@ -1,0 +1,20 @@
+[
+    {
+        "operation": "add",
+        "left": 10,
+        "right": 5,
+        "result": 15
+    },
+    {
+        "operation": "subtract",
+        "left": 10,
+        "right": 5,
+        "result": 5
+    },
+    {
+        "operation": "multiply",
+        "left": 10,
+        "right": 5,
+        "result": 50
+    }
+]
